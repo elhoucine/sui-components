@@ -1,0 +1,6 @@
+return (
+  <AtomLabel
+    name='atomLabel'
+    text='Hello label'
+    optional='optional text' />
+)
