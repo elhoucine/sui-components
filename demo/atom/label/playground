@@ -2,5 +2,5 @@ return (
   <AtomLabel
     name='atomLabel'
     text='Hello label'
-    optional='optional text' />
+    optional='(optional text)' />
 )

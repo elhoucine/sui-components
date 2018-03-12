@@ -7,7 +7,8 @@
   margin-bottom: $m-s;
   margin-right: $m-m;
 
-  &--optional {
-
+  &-optional {
+    color: $c-gray-light;
+    margin-left: $m-s;
   }
 }

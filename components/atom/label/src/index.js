@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 const AtomLabel = ({name, text, optional}) => (
   <label htmlFor={name} className='sui-AtomLabel'>
     {text}
-    <span className='sui-AtomLabel--optional'>
+    <span className='sui-AtomLabel-optional'>
       {optional}
     </span>
   </label>
