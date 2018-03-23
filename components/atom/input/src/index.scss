@@ -3,14 +3,9 @@
 
 .sui-AtomInput {
   @include form-field(input);
-  @include field-size(input);
 
   &-input-wrapper {
     display: flex;
-  }
-
-  &-help-text {
-    @include help-text;
   }
 }
 
